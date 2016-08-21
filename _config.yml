@@ -1,4 +1,3 @@
-layout_spectrum: 0.014030477963387966
 typography_spectrum: 0.07269903784617782
 color:
   brandStrength: 0.6563277128152549
@@ -11,4 +10,6 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.014030477963387966
 name: RockinGlass
+title: Artist made in the USA
